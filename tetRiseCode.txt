@@ -1,0 +1,10 @@
+Block
+    Size 2
+    Shape [(1,0,1),(1,1,1),(0,0,1)]
+Game
+    BoardSize 500 10
+    Gravity 5
+    Rotation 1
+    Points 5
+x = 6+6
+Config Left x
